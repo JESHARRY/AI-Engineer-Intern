@@ -6,7 +6,7 @@ The application accepts a list of company domains, dynamically crawls their publ
 
 ---
 
-## 🎯 Objective
+## Objective
 
 The agent automates the following workflow:
 
